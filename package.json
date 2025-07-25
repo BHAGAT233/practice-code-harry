@@ -1,0 +1,23 @@
+{
+  "name": "practice-code-harry",
+  "version": "1.0.0",
+  "description": "``` mkdir folder-name ``` ## Example: ``` mkdir myProject ```",
+  "main": "practice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BHAGAT233/practice-code-harry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BHAGAT233/practice-code-harry/issues"
+  },
+  "homepage": "https://github.com/BHAGAT233/practice-code-harry#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
